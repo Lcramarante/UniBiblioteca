@@ -1,11 +1,5 @@
 # UniBiblioteca
 
-<!--
-  README DE PERFIL GITHUB
-  Substitui TEU_USERNAME pelo teu username real do GitHub.
-  Personaliza os projetos, links e tecnologias conforme o teu perfil.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,35:102A43,70:087E8B,100:19C3B3&text=Leandro%20Amarante&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Solu%C3%A7%C3%B5es%20reais&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Banner de Leandro Amarante"/>
@@ -89,7 +83,7 @@ Aplicação web para organizar o catálogo, controlar empréstimos, gerir leitor
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[**Ver repositório →**](https://github.com/TEU_USERNAME/UniBiblioteca)
+[**Ver repositório →**](https://github.com/Lcramarante/UniBiblioteca)
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +104,7 @@ Espaço reservado para uma ferramenta, aplicação ou experiência técnica que 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-[**Adicionar projeto →**](https://github.com/TEU_USERNAME?tab=repositories)
+[**Adicionar projeto →**](https://github.com/Lcramarante?tab=repositories)
 
 </td>
 </tr>
@@ -124,17 +118,17 @@ Espaço reservado para uma ferramenta, aplicação ou experiência técnica que 
 
 <div align="center">
 
-<a href="https://github.com/TEU_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&hide_border=true&bg_color=07111F&title_color=19C3B3&icon_color=19C3B3&text_color=E6EDF3&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<a href="https://github.com/Lcramarante">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lcramarante&show_icons=true&hide_border=true&bg_color=07111F&title_color=19C3B3&icon_color=19C3B3&text_color=E6EDF3&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
 </a>
-<a href="https://github.com/TEU_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&hide_border=true&bg_color=07111F&title_color=19C3B3&text_color=E6EDF3&langs_count=6" alt="Linguagens mais utilizadas"/>
+<a href="https://github.com/Lcramarante">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcramarante&layout=compact&hide_border=true&bg_color=07111F&title_color=19C3B3&text_color=E6EDF3&langs_count=6" alt="Linguagens mais utilizadas"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/TEU_USERNAME">
-  <img width="95%" src="https://streak-stats.demolab.com?user=TEU_USERNAME&theme=transparent&hide_border=true&background=07111F&ring=19C3B3&fire=FFB86B&currStreakLabel=19C3B3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
+<a href="https://github.com/Lcramarante">
+  <img width="95%" src="https://streak-stats.demolab.com?user=Lcramarante&theme=transparent&hide_border=true&background=07111F&ring=19C3B3&fire=FFB86B&currStreakLabel=19C3B3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
 </a>
 
 </div>
@@ -161,10 +155,10 @@ Se tens uma ideia, um projeto interessante ou uma oportunidade de colaboração,
 
 <div align="center">
 
-<a href="https://github.com/TEU_USERNAME">
+<a href="https://github.com/Lcramarante">
   <img src="https://img.shields.io/badge/GitHub-Explorar%20os%20meus%20projetos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explorar GitHub"/>
 </a>
-<a href="https://github.com/TEU_USERNAME?tab=repositories">
+<a href="https://github.com/Lcramarante?tab=repositories">
   <img src="https://img.shields.io/badge/Projetos-Ver%20reposit%C3%B3rios-087E8B?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios"/>
 </a>
 
