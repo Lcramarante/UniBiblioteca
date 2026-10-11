@@ -10,7 +10,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TEU_USERNAME-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/TEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-TEU_USERNAME-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Lcramarante)
 [![Profile Views](https://komarev.com/ghpvc/?username=TEU_USERNAME&style=flat-square&color=087E8B&label=VISITAS+AO+PERFIL)](https://github.com/TEU_USERNAME)
 [![Made in Cabo Verde](https://img.shields.io/badge/Feito_em-Cabo_Verde-087E8B?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/TEU_USERNAME)
 
